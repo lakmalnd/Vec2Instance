@@ -10,11 +10,11 @@ Vec2Instance provides a framework for parametrization of instances, allowing con
 
 * numpy
 * matplotlib
-* tensorflow v1.15 (keras)
+* tensorflow v1.12.0 (keras)
 
 ### Content
 
-Proposed new neural network architecture for the instance segmentation task comprising two CNNs. The first CNN estimates centroids of instances, and the second CNN preforms instance segmentation around each centroid. So there are 3 notebooks in this repository. First 2 notebooks are for training of Centroid Estimation CNN and Instance Segmentation CNN. And the third notebook is for the prediction process, combining the results of Centroid Estimation CNN and Instance Segmentation CNN.
+Proposed new neural network architecture for the instance segmentation task comprising two CNNs. The first CNN estimates centroids of instances, and the second CNN preforms instance segmentation around each centroid. So there are 4 notebooks in this repository. First 2 notebooks are for training of Centroid Estimation CNN and Instance Segmentation CNN. And the third notebook is for the prediction process, combining the results of Centroid Estimation CNN and Instance Segmentation CNN. Final (4th) notebook is about aditional application of Vec2Instance (face Reconstruction by prametrizing faces with Vec2Instance).
 
 * Notebook I: Training the Centroid Estimation CNN
 * Notebook II: Training the Instance Segmentation CNN
