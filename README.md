@@ -8,7 +8,9 @@ Vec2Instance provides a framework for parametrization of instances, allowing con
 
 ### Libraries used
 
-
+* numpy
+* matplotlib
+* tensorflow v1.15 (keras)
 
 ### Content
 
