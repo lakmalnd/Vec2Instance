@@ -1,6 +1,6 @@
 # Vec2Instance
 
-This repository provides an implementation of Vec2Instance over the SpaceNet challenge AOI 2 (Vegas) building footprint dataset. And this is published in arXiv (click here).
+This repository provides an implementation of Vec2Instance over the SpaceNet challenge AOI 2 (Vegas) building footprint dataset. And this is published in [arXiv](#).
 
 ### Introduction
 
