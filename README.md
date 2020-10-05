@@ -18,7 +18,7 @@ Whole concept is summerized in following figure,
 
 And some of the results we have obtained is shows in following figure (Input images are in first row, ground truth images are in second row, and predictions from Vec2Instance are in third row),
 
-![Vec2Instance_all_in_one](./code/graphics/Vec2Instance_Results_Good.PNG)
+<img src="./code/graphics/Vec2Instance_Results_Good.PNG" alt="Vec2Instance_all_in_one" width="70%"/>
 
 ### Libraries used
 
