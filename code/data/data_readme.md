@@ -5,4 +5,4 @@ __*Links to original dataset web pages*__
 * [SpaceNet](https://spacenet.ai/)
 * [LFS Part Labels Database](http://vis-www.cs.umass.edu/lfw/part_labels/)
 
-*Note: we have done few pre-processing steps on these datasets before using in this study (details are in the paper)*
+*__Note:__ we have done few pre-processing steps on these datasets before using in this study (details are in the paper)*
