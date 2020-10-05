@@ -14,11 +14,15 @@ output of the multivariate function should be 1 if the location is inside the ma
 
 Whole concept is summerized in following figure,
 
-![Vec2Instance_all_in_one](./code/graphics/Vec2Instance_all_in_one.PNG)
+<p align="center">
+<img src="./code/graphics/Vec2Instance_all_in_one.PNG" alt="Vec2Instance_all_in_one" width="70%"/>
+</p>
 
 And some of the results we have obtained is shows in following figure (Input images are in first row, ground truth images are in second row, and predictions from Vec2Instance are in third row),
 
-<img src="./code/graphics/Vec2Instance_Results_Good.PNG" alt="Vec2Instance_all_in_one" width="70%"/>
+<p align="center">
+<img src="./code/graphics/Vec2Instance_Results_Good.PNG" alt="Vec2Instance_Results_Good" width="70%"/>
+</p>
 
 ### Libraries used
 
