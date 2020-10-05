@@ -41,7 +41,7 @@ This proposed new neural network architecture for the instance segmentation task
 
 ### Citation
 
-[Use this to cite our work (the arXiv paper or this github repository)](#)
+Use this to cite our work (the [arXiv paper](#) or this github repository)
 
 ```
 @misc{Vec2Instance,
