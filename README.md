@@ -10,7 +10,7 @@ Core concept of Vec2Instance is as below,
 * An instance mask is a multivariate function in two dimensions. The input to the multivariate function is a pixel location (x and y coordinate values), and the
 output of the multivariate function should be 1 if the location is inside the mask and 0 otherwise.
 * This function can be approximated by an vanilla neural network (MLP). And the weights and biases of this vanilla neural network (MLP) can be considered as parameters that represent an instance mask (building shape). 
-* Now, we have a way to parametrize an instance mask. Then, a CNN can be used to learn those parameters and then those parameters can be re-arranged as weights and biases of vanilla neural network (MLP). And this vanilla neural network (MLP) applied on pixel coordinates centered at the centroid of each instance, outputting instance mask (building shape) for each instance.
+* Now, we have a way to parametrize an instance mask. Then, a CNN can be used to learn those parameters and then those parameters can be re-arranged as weights and biases of vanilla neural network (MLP). And this vanilla neural network (MLP) applied on pixel coordinates centered at the centroid of each instance, outputting instance mask (building shape) for each instance. One way to think of the model is as a neural network (CNN) that predicts the weights and biases of another neural network (a vanilla multilayer perceptron).
 
 Whole concept is summerized in following figure,
 
