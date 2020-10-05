@@ -1,5 +1,5 @@
 
-__*Datasets are too large to upload here. please contact me lakmal[at]ait.ac.th for more detail*__
+__*Datasets are too large to upload here. please contact me (lakmal[at]ait.ac.th) for more detail*__
 
 __*Links to original dataset web pages*__
 * [SpaceNet](https://spacenet.ai/)
