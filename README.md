@@ -24,11 +24,16 @@ And some of the results we have obtained in this study, is shown in following fi
 <img src="./code/graphics/Vec2Instance_Results_Good.PNG" alt="Vec2Instance_Results_Good" width="70%"/>
 </p>
 
+<p align="center">
+<img src="./code/graphics/TSNE_Faces.png" alt="TSNE_Faces" width="70%"/>
+</p>
+
 ### Libraries used
 
 * numpy
 * matplotlib
-* tensorflow v1.12.0 (keras)
+* tensorflow v1.12.0 
+* keras
 * sklearn
 
 ### Content
