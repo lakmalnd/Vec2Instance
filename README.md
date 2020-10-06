@@ -34,10 +34,12 @@ And some of the results we have obtained in this study, is shown in following fi
 
 This proposed new neural network architecture for the instance segmentation task comprises of two CNNs. The first CNN estimates centroids of instances, and the second CNN preforms instance segmentation around each centroid. So there are 4 notebooks in this repository. First 2 notebooks are for training of Centroid Estimation CNN and Instance Segmentation CNN respectively. And the third notebook is for the prediction process, combining the results of Centroid Estimation CNN and Instance Segmentation CNN. Final (4th) notebook is about additional application of Vec2Instance (face reconstruction by parametrizing faces with Vec2Instance).
 
-* [Notebook I: Training the Centroid Estimation CNN](https://github.com/lakmalnd/Vec2Instance/blob/master/code/Notebook%20I%20-%20Training%20the%20Centroid%20Estimation%20CNN.ipynb)
-* [Notebook II: Training the Instance Segmentation CNN](https://github.com/lakmalnd/Vec2Instance/blob/master/code/Notebook%20II%20-%20Training%20the%20Instance%20Segmentation%20CNN.ipynb)
-* [Notebook III: Prediction](https://github.com/lakmalnd/Vec2Instance/blob/master/code/Notebook%20III%20-%20Prediction.ipynb)
-* [Notebook IV: Face Reconstruction with Vec2Instance](#)
+All codes are in *code* folder, and trained models are in *code/models* folder. Following 4 notebooks are in *code* folder,
+
+* Notebook I: Training the Centroid Estimation CNN
+* Notebook II: Training the Instance Segmentation CNN
+* Notebook III: Prediction
+* Notebook IV: Face Reconstruction with Vec2Instance
 
 ### Citation
 
