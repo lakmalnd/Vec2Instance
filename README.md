@@ -1,6 +1,6 @@
 # Vec2Instance - Parameterization for Deep Instance Segmentation
 
-This repository provides an implementation of Vec2Instance over the SpaceNet challenge AOI 2 (Vegas) building footprint dataset. [click here to access the arXiv paper](#).
+This repository provides implementation of Vec2Instance over the SpaceNet challenge AOI 2 (Vegas) building footprint dataset. [click here to access our arXiv paper](#).
 
 ### Introduction
 
