@@ -29,6 +29,7 @@ And some of the results we have obtained in this study, is shown in following fi
 * numpy
 * matplotlib
 * tensorflow v1.12.0 (keras)
+* sklearn
 
 ### Content
 
