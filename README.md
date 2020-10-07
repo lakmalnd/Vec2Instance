@@ -1,6 +1,6 @@
 # Vec2Instance - Parameterization for Deep Instance Segmentation
 
-This repository provides implementation of Vec2Instance over the SpaceNet challenge AOI 2 (Vegas) building footprint dataset. [click here to access our arXiv paper](#).
+This repository provides implementation of Vec2Instance over the SpaceNet challenge AOI 2 (Vegas) building footprint dataset. [click here to access our arXiv paper](https://arxiv.org/abs/2010.02725).
 
 ### Introduction
 
@@ -51,16 +51,16 @@ All codes are in *code* folder, and trained models are in *code/models* folder. 
 
 ### Citation
 
-Use this to cite our work (the [arXiv paper](#) or this github repository)
+Use this to cite our work (the [arXiv paper](https://arxiv.org/abs/2010.02725) or this github repository)
 
 ```
-@misc{Vec2Instance,
-  title={Vec2Instance - Parameterization for Deep Instance Segmentation},
-  author={N. Lakmal Deshapriya, Matthew N. Dailey, Manzul Kumar Hazarika, Hiroyuki Miyazaki},
-  year={2020},
-  publisher={Github},
-  journal={GitHub repository},
-  howpublished={\url{https://github.com/lakmalnd/Vec2Instance}},
+@misc{deshapriya2020vec2instance,
+      title={Vec2Instance: Parameterization for Deep Instance Segmentation}, 
+      author={N. Lakmal Deshapriya and Matthew N. Dailey and Manzul Kumar Hazarika and Hiroyuki Miyazaki},
+      year={2020},
+      eprint={2010.02725},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
